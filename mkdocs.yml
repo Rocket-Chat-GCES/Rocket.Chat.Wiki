@@ -13,7 +13,7 @@ copyright: "Copyright &copy; Rocket-Chat-GCES"
 
 # Theme settings
 theme:
-  # logo: 'assets/img/logo/logo_icon.png'
+  logo: 'assets/img/logo/logo_icon.png'
   font:
     text: "Roboto"
     code: "Roboto Mono"
