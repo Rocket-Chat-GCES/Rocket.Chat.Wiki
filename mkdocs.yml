@@ -1,0 +1,67 @@
+# Project information
+site_name: "Rocket Chat Wiki"
+site_description: "TODO"
+site_author: "Rocket Chat GCES 2020 2"
+site_url: "https://Rocket-Chat-GCES.github.io/Rocket.Chat.Wiki"
+
+# Repository
+repo_name: "Rocket-Chat-GCES"
+repo_url: "https://github.com/Rocket-Chat-GCES/Rocket.Chat.Wiki"
+
+# Copyright
+copyright: "Copyright &copy; Rocket-Chat-GCES"
+
+# Theme settings
+theme:
+  # logo: 'assets/img/logo/logo_icon.png'
+  font:
+    text: "Roboto"
+    code: "Roboto Mono"
+  features:
+    - navigation.tabs
+  language: "pt"
+  name: "material"
+  palette:
+    primary: "red"
+    accent: "grey"
+
+# Content Menu
+nav:
+  - Início: "index.md"
+
+# Style
+# extra_css:
+#   - assets/style/extra.css
+
+# Markdown extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - codehilite:
+      linenums: true
+  - footnotes
+  - meta
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tabbed
+  - pymdownx.tilde
+
+extra_javascript:
+  - javascripts/config.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
