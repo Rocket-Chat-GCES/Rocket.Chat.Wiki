@@ -2,7 +2,7 @@
 
 ## Sprint 1
 
-| Issue                                                             | Pull request |                          Aluno 1 |                          Aluno 2 |
+| Issue                                                             |                          Aluno 1 |                          Aluno 2 |
 |-------------------------------------------------------------------|----------------------------------|----------------------------------|
 | [#1228](https://github.com/RocketChat/Rocket.Chat.ReactNative/issues/1228) | Guilherme Antonio Deusdará Banci |                 Matheus |
 | [#20817](https://github.com/RocketChat/Rocket.Chat/issues/20817)           |                      João Victor |                    João |
