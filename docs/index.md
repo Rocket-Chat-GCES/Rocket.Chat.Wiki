@@ -6,7 +6,7 @@
 |-------------------------------------------------------------------|----------------------------------|----------------------------------|
 | [#1228](https://github.com/RocketChat/Rocket.Chat.ReactNative/issues/1228) | Guilherme Antonio Deusdará Banci |                 Matheus |
 | [#20817](https://github.com/RocketChat/Rocket.Chat/issues/20817)           |                      João Victor |                    João |
-|                                                                            |      Mikhaelle de Carvalho Bueno |                  Samuel |
+|                                                                            |      Mikhaelle de Carvalho Bueno |           Samuel Borges |
 
 
 
@@ -18,4 +18,4 @@
 | 16/0015294 |                          Matheus |
 |            |                      João Victor |
 |            |                             João |
-|            |                           Samuel |
+| 16/0054389 |                    Samuel Borges |
