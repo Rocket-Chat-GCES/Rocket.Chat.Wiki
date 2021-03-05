@@ -29,6 +29,8 @@ theme:
 # Content Menu
 nav:
   - Início: "index.md"
+  - Sprint-1: "sprint1.md"
+  - Sprint-2: "sprint2.md"
 
 # Style
 # extra_css:
@@ -66,3 +68,6 @@ extra_javascript:
   - javascripts/config.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+    - css/extra.css
