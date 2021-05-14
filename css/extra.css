@@ -1,0 +1,28 @@
+
+
+
+
+.photo-border {
+    border-radius: 20px;
+    width: 12em;
+    height: 12em;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    position: relative;
+    transition: all 0.3s;
+    margin-left: 2em;
+    margin-bottom: 2rem;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgba(0,0,0,0.3);
+    transition: opacity 0.5s !important;
+}
+
+
+.pictures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    z-index: 7;
+}
+
